@@ -1,13 +1,19 @@
 import './App.css';
-import RecipeDescription from './Description.js';
+import RecipeDescription from './components/Description.js';
+import RecipeIngredients from './components/Ingredients';
+import RecipePhoto from './components/Photos';
 
 function App() {
   return (
     <div className="App">
-   <div>
-      <RecipeDescription />
-   </div>
-</div>
+      <div className = "recipePhotoBlock">
+      <RecipePhoto />
+      <div>
+        <RecipeDescription />
+        <RecipeIngredients />
+      </div>
+      </div>
+    </div>
   );
 }
 
