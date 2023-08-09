@@ -1,18 +1,22 @@
 [
-   {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
-   }
- ]
- 
+  {
+    "name": "Spice Rubbed Smoked Ribs With Maple Horseradish Baste",
+    "author": "Bobby Flay",
+    "description": "These ribs are sooooooooo good! All your friends will agree!",
+    "website": "https://www.foodnetwork.com/recipes/bobby-flay/spice-rubbed-smoked-ribs-with-maple-horseradish-baste-recipe-2013925",
+    "recipeImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/15/1/0162941_smoked-ribs_s4x3.jpg.rend.hgtvcom.1280.720.suffix/1371603168027.jpeg",
+    "authorImage": "https://www.eluniverso.com/resizer/U-JWFbqVtKBFAc-64Gg7VMeiwqc=/1080x608/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/PHLHSKH6XZBIZGRCBUQKPX2KUU.jpg",
+    "ingredients": [
+      "Spanish Paprika",
+      "Ancho chili powder",
+      "New Mexican chili powder",
+      "Ground Coriander",
+      "Milk",
+      "Ground cumin",
+      "Kosher salt",
+      "Ground black pepper",
+      "Hickory wood chips"
+      
+    ]
+  }
+]
